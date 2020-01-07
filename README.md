@@ -15,6 +15,8 @@ Below is the video of the  AT THE ISLAND virtual reality experience.
 
 [![Alt text](https://img.youtube.com/vi/395EzivcNhI/0.jpg)](https://youtu.be/395EzivcNhI)
 
+[Download Android apk file from here](https://drive.google.com/file/d/1AlOb4MgVXfcZ4tBx2TMR38aMQhhjWPOs/view)
+
 # The Process
 
 ## Statement of Purpose
@@ -56,3 +58,49 @@ Below is the final virtual world that I have built using pro-builder in Unity3D.
 
 The five leaves in the lotus-shaped island represent the five ed-tech companies. Each leaf has a theatre at its end, where a video about the corresponding company is played. While reaching the theatre, the user will be shown information about the company using a screen that moves along with the user. I came up with the following designs for the screen. 
 
+![](/AtTheIsland/Assets/Images/6.JPG "User interface sketch")
+
+![](/AtTheIsland/Assets/Images/7.JPG "User interface")
+
+![](/AtTheIsland/Assets/Images/8.JPG "Final UI")
+I have finalized this UI, as both image and text can be shown together.
+
+## User testing
+I wanted to get valuable and honest feedback about this application. So, I chose my colleague at workplace whom I thought would be the right user for testing this app. A short intro about him below
+
+*Rup:*
+He is a senior QA engineer in the company that I'm working for currently. He is highly creative. He looks for even minutest details while testing. He also plays a lot of video games.
+
+**User Test - 1:** What do you feel about the setting, scale & mood of the scene?
+
+*Rup:* The world is very pleasing and the background music is adding a lot of emotion to the experience. The screen inside the theatre is too close to watch the video. The font color of the text on the moving UI screen is very light.\
+
+    Changed the font color on the moving UI screen. Repositioned the user inside the theatre so that the entire screen is visible. 
+    
+**User Test - 2:** How is the movement? 
+
+*Rup:* The movement is very comfortable. I felt the move to the island just after the introduction is very fast.
+
+      Reduced the speed for that movement.
+      
+**User Test - 3:** How is the overall feel of the VR experience?  Any suggestions ?
+
+*Rup:* The overall experience is great. I loved the sunrise, sunset and the stars in the night sky.  I felt that the movement is highly controlled and there is a little freedom for me to navigate wherever I want.
+
+      The control of user's movement is a design decision that I have taken for some good reasons. But I would definitely try giving the user more control on navigation inside the world in the next version of this application. 
+      
+# Breakdown of final piece
+
+The overall VR experience goes like this.
+
+1. The user will be shown some introduction about the experience and will be taken to the island. 
+2. Here the user can select any of the companies and can explore further on their own.
+3. The day/night cycle happens periodically throughout the experience.
+
+# Conclusion
+
+It's an amazing experience for me working on this project. I have spent almost one month working on it and learned so many things including Blender, Probuilder and Real-time global illumination. I have done a lot of C# scripting. I'm able to create gameplay interactions very quickly.  I have become better with scale in VR.
+
+# Next Steps..
+
+As real-time global illumination is used in this project, the application runs smoothly only on high-end mobile devices. I would like to optimize this application in terms of processing power it takes while not comprising on the overall quality of the experience. 
