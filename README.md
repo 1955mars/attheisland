@@ -40,3 +40,19 @@ Vishnu is currently pursuing his masters and is interested in becoming an educat
 
 I wanted to create a dreamy island in an ocean with day/night cycle - sunrise, sunset, stars-  and then let the user explore and learn about the five VR Ed-Tech companies. I came up with different designs for the virtual world and rapidly prototyped them using 3D modeling tools like Blender and Pro builder(now part of Unity3D). Here are my sketches for the VR world. 
 
+![](/AtTheIsland/Assets/Images/1.JPG "Virtual world sketch")
+
+![](/AtTheIsland/Assets/Images/2.JPG "Virtual world sketch")
+
+![](/AtTheIsland/Assets/Images/3.JPG "Virtual world model")
+
+![](/AtTheIsland/Assets/Images/4.JPG "Virtual world model")
+
+Below is the final virtual world that I have built using pro-builder in Unity3D.
+
+![](/AtTheIsland/Assets/Images/5.JPG "Final virtual world")
+
+### 2. User Interface
+
+The five leaves in the lotus-shaped island represent the five ed-tech companies. Each leaf has a theatre at its end, where a video about the corresponding company is played. While reaching the theatre, the user will be shown information about the company using a screen that moves along with the user. I came up with the following designs for the screen. 
+
