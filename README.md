@@ -1,3 +1,5 @@
+![](/AtTheIsland/Assets/Images/9.JPG "At the Island - VR experience")
+
 # Introduction
    Education has played a major role in human evolution. We became Homo Sapiens, the predominant species of this world, by transferring knowledge among ourselves. Every human civilization has given knowledge transfer the highest priority. We constantly look for ways to make knowledge transfer happen more easily, quickly and effectively.
    
